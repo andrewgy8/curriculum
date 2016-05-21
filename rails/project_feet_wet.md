@@ -81,6 +81,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 * [Fabricio Carrara's solution](https://bitbucket.org/fcarrara/toy_app/src) | [Heroku](https://mighty-coast-3724.herokuapp.com)
 * Deepak's solution ([hello_app](https://github.com/Deepak5050/hello_app.git), [toy_app](https://github.com/Deepak5050/toy_app3.git))
 * [djhart's solution](https://github.com/djhart/toy_app)  
+* [Andrew Graham-Yooll's solution](https://github.com/andrewgy8/toy_app.git)
 * Add your solution above this line!
 
 
