@@ -48,6 +48,7 @@ You may find yourself using Rest Client down the road if you need to communicate
 * [Fabricio Carrara's solution](https://github.com/fcarrara/rest_client)
 * [Deepak's solution](https://github.com/Deepak5050/rest_client/blob/master/rest_client.rb)
 * [djhart's solution](https://github.com/djhart/rest_client_ex)
+* [Andrew Graham-Yooll's solution](https://github.com/andrewgy8/rest_client_warmup.git)
 * Add your solution above this line!
 
 
